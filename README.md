@@ -16,7 +16,7 @@ A simple portfolio to showcase my skills and projects for the PLP Academy Hackat
 - Contact Form
 
 ## 🔗 Live Site
-[Visit My Portfolio](https://allanastok7.github.io/portfolio-challenge)
+[Visit My Portfolio](https://allanastok7/myportfolio.github.io)
 
 ## 📫 Contact
 Feel free to email me at allanalekey7@gmail.com
